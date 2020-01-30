@@ -1,0 +1,9 @@
+generateCanonicalForm
+generateCppCanonical
+CanonicalForm.hpp
+CanonicalForm.cpp
+*.d
+*.o
+ft_retro
+launch.json
+settings.json
